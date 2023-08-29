@@ -2,7 +2,7 @@
 
 /**
  * set_string - Entry point
- * @s: input 
+ * @s: input
  * @to: input
  * Return: Always 0 (success)
  */
